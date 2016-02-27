@@ -1,0 +1,26 @@
+_repo: La-Divina-Commedia-di-Dante-Paradiso_1011
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1011'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- To 1400'
+- !lcsh 'Epic poetry, Italian'
+- !lcc 'PQ'
+title: 'La Divina Commedia di Dante: Paradiso'
+url: http://www.gutenberg.org/ebooks/1011
